@@ -18,3 +18,7 @@ The robot basically sticks to a wall and follows it.
 That's it.
 
 I've used tkinter(which was quite the challenge) to visualize the maze.
+
+
+
+Note: If you want to try it create a text maze like the ones in failed attempts called "mymaze.txt" and "mazetrix.txt".
